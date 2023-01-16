@@ -1,0 +1,11 @@
+{
+  "name": "kursts",
+  "version": "1.0.0",
+  "description": "Nauka TS",
+  "main": "index.html",
+  "scripts": {
+    "compile": "tsc --watch"
+  },
+  "author": "tk",
+  "license": "ISC"
+}
